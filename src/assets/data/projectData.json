@@ -1,0 +1,44 @@
+[
+    {
+    "title": "QuickSort",
+    "desc":" A web-based, Kanban-style, list-making application. The name 'QuickSort' is inspired from the famous quicksort sorting algorithm that is used to find effective solutions to comlex problems. This tool can be used for keeping track of personal as well as professional tasks separately within a few seconds.",
+    "tech":"ReactJs , Figma , MongoDB ",
+    "github":"https://github.com/pragati2526/ToDo",
+    "demo":"https://github.com/pragati2526/ToDo"
+    },
+    {
+        "title": "COVID detection using X Ray ",
+        "desc": " With Covid-19 spreading rapidly around the world and became a pandemic. It is critical to detect the positive cases as early as possible so as to prevent the further spread of this epidemic and to quickly treat affected patients. This tool helps in detecting the virus using economical X rays with high accuracy and fast results.",
+        "tech":" Python , Numpy , Keras , Jupyter ",
+        "github": "https://github.com/pragati2526/",
+        "demo": " https://github.com/pragati2526/"
+    },
+    {
+        "title": "ARCS 2021 Landing Page",
+        "desc": "Developed the landing page of the flagship event of Institute of Electrical and Electronics Engineers Computer Society VIT - ARCS 2021.",
+        "tech":" GatsbyJs , TailwindCSS ",
+        "github": "https://github.com/IEEECS-VIT/arcs-landing-2021",
+        "demo": "https://arcs2021.netlify.app/"
+    },
+    {
+        "title": "Billing Management System",
+        "desc": " An automated billing management application for a food company to help optimise their day to day activities.",
+        "tech":"  C  ",
+        "github": "https://github.com/pragati2526/FoodOrderSystem",
+        "demo": "https://github.com/pragati2526/FoodOrderSystem"
+    },
+    {
+        "title": "Tower of Hanoi Simulator ",
+        "desc": " An interactive simulator of the famous 'Tower of Hanoi' problem which is solved using recursion. ",
+        "tech":" HTML , CSS , Javascript ",
+        "github": "https://github.com/pragati2526/TowerOfHanoi",
+        "demo": "https://github.com/pragati2526/TowerOfHanoi"
+    },
+        {
+            "title": "Warehouse Sales Predictor",
+            "desc": " Warehouse sales predictor tool to optimize storage, maximise profits and minimize human efforts.",
+            "tech": " Python , Numpy , Pandas , Docker , Flask ,AWS ",
+            "github": "https://github.com/pragati2526/",
+            "demo": "https://github.com/pragati2526/"
+        }
+]

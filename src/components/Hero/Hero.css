@@ -1,0 +1,101 @@
+.bag {
+    background: linear-gradient(132deg,rgba(255, 223, 111, 0.73), rgba(225, 88, 129, 0.93),rgba(255, 223, 111, 0.73),
+        rgba(225, 88, 129, 0.93),rgba(255, 223, 111, 0.73),
+            rgba(225, 88, 129, 0.93));
+    background-size: 400% 400%;
+    animation: Gradient 10s ease infinite;
+    position: relative;
+    /* height: 70vh; */
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0px;
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.t1 {
+    display: inline-block;
+}
+
+.t2 {
+    display: inline-block;
+}
+
+
+.typed
+{
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Denk One', sans-serif;
+    font-size: 2.0rem;
+    color: #333333;
+    overflow: hidden;
+    border-right: .07em solid #333333;
+    white-space: nowrap;
+    width: 0;
+    animation:
+        typing 1s steps(25, end) forwards;
+
+}
+
+.typed-2
+{
+    font-family: 'Denk One', sans-serif;    
+    font-size: 2.5rem;
+    color: #333333;
+    overflow: hidden;
+    border-right: .07em solid #333333;
+    white-space: nowrap;
+    width: 0;
+    animation:
+        typing 1s steps(25, end) forwards;
+        animation-delay: 1s;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+
+ /* @keyframes blink {
+     from {
+         border-color: transparent
+     }
+
+     to {
+         border-color: orange;
+     }
+ } */
+
+ .home-image
+ {
+    width:25%;
+    height:100vh;
+    padding: 6px;
+ }
+.hero-sec 
+{
+    padding: 2% 0;
+}
+
+.hero-sec-2
+{
+    padding: 2% 0;
+}
